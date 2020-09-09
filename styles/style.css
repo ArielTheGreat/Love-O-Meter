@@ -1,0 +1,13 @@
+body{
+    font-size: 2em;
+}
+h1,h2,p{
+    text-align: center;
+}
+#header{
+    background-color: pink;
+    padding:50px;
+}
+#result{
+    text-align: center;
+}
